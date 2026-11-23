@@ -1,57 +1,37 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Midnight rain over a Tokyo rooftop with blue shadow aura" width="100%" />
+  <img src="assets/banner.svg" alt="Ryan Arya Pramudya — Software Engineer" width="100%" />
 </p>
 
-<p align="center">
-  <sub><strong>RYAN ARYA PRAMUDYA</strong> &nbsp;·&nbsp; Full-Stack Web Dev &nbsp;·&nbsp; API &amp; Automation &nbsp;·&nbsp; Security Pentest</sub>
-</p>
+Software engineer based in Indonesia (UTC+7) focused on building reliable full-stack web applications, backend APIs, healthcare integrations, and automation systems — with hands-on experience in web and network security testing.
 
-### 01 · Status
+### Focus Areas
 
-<div>
-<img align="right" src="assets/side.png" alt="Ryan Arya Pramudya" width="260" height="325" />
-</div>
+- **Full-Stack & Healthcare Integrations** — End-to-end web platforms, RESTful services, and interoperability pipelines for SIMRS and BPJS bridging.
+- **API & Workflow Automation** — Local AI tooling, autonomous agent workflows, and service integration gateways.
+- **Application & Network Security** — Web/network penetration testing, security diagnostics, and CLI assessment utilities.
 
-```yaml
-# [ STATUS WINDOW ]
-name: Ryan Arya Pramudya
-handle: "@ryanaryapramudya"
-from: Indonesia (UTC+7)
-
-focus:
-  - Full-Stack Web Dev
-  - API & Automation
-  - Security Pentest
-
-lately:
-  - SIMRS & BPJS bridging
-  - Local AI & automation tools
-  - Network & web security
-
-status: active · building in silence
-open_to: collaborations & security research
-```
-
-<br clear="right" />
-
-### 02 · Tech Stack
+### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,php,go,rust,vue,nextjs,nodejs,fastapi,laravel,docker,postgres,linux&theme=dark&perline=14" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php,go,rust,vue,nextjs,nodejs,fastapi,laravel,docker,postgres,linux&theme=dark&perline=14" alt="TypeScript, JavaScript, Python, PHP, Go, Rust, Vue, Next.js, Node.js, FastAPI, Laravel, Docker, PostgreSQL, Linux" />
 </p>
 
-### 03 · Projects
+- **Languages:** TypeScript, JavaScript, Python, PHP, Go, Rust
+- **Frameworks & Runtime:** Next.js, Vue, Node.js, FastAPI, Laravel
+- **Data & Infrastructure:** PostgreSQL, Docker, Linux
 
-| Project | Description | Visibility |
-| :--- | :--- | :---: |
-| [**Incompetech&#8209;api**](https://github.com/ryanaryapramudya/Incompetech-api) | FastAPI REST API, scraper & SDK for Kevin MacLeod's music catalog | `public` |
-| **IndoExam** | Online examination and assessment platform | `private` |
-| **NexaPost** | Multi-workspace content publishing and automation platform | `private` |
-| **IndoAcademy** | Online learning and academy management platform | `private` |
-| [**BOT&#8209;WA**](https://github.com/ryanaryapramudya/BOT-WA) | Automated WhatsApp bot built with Node.js | `public` |
+### Selected Projects
+
+| Project | Description | Domain | Visibility |
+| :--- | :--- | :--- | :---: |
+| [**Incompetech&#8209;api**](https://github.com/ryanaryapramudya/Incompetech-api) | High-performance Python scraper, FastAPI REST API, and SDK for Kevin MacLeod's royalty-free music catalog | API / Python | `Public` |
+| **IndoExam** | Online examination and assessment platform | Full-Stack Web | `Private` |
+| **NexaPost** | Multi-workspace content publishing and automation platform | Full-Stack Web | `Private` |
+| **IndoAcademy** | Online learning and academy management platform | Full-Stack Web | `Private` |
+| [**BOT&#8209;WA**](https://github.com/ryanaryapramudya/BOT-WA) | Automated WhatsApp messaging and workflow bot | Automation / Node.js | `Public` |
 
 ---
 
 <p align="center">
-  <strong>「 起きろ。」</strong>
+  <sub>Indonesia (UTC+7) &nbsp;·&nbsp; Open to engineering collaborations, backend architecture, and security research.</sub>
 </p>

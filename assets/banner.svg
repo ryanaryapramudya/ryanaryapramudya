@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none" role="img" aria-label="Ryan Arya Pramudya — Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0b1120" />
+      <stop offset="55%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+
+    <radialGradient id="glow" cx="84%" cy="32%" r="48%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.16" />
+      <stop offset="55%" stop-color="#2563eb" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0" />
+    </radialGradient>
+
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.9" />
+      <stop offset="35%" stop-color="#3b82f6" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#1e293b" stop-opacity="0" />
+    </linearGradient>
+
+    <pattern id="dotGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#94a3b8" fill-opacity="0.14" />
+    </pattern>
+
+    <clipPath id="cardClip">
+      <rect width="1200" height="280" rx="14" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <!-- Base gradient + subtle architectural grid + restrained glow -->
+    <rect width="1200" height="280" fill="url(#bg)" />
+    <rect width="1200" height="280" fill="url(#dotGrid)" />
+    <rect width="1200" height="280" fill="url(#glow)" />
+
+    <!-- Top subtle accent bar -->
+    <rect x="0" y="0" width="1200" height="2.5" fill="url(#accentLine)" />
+
+    <!-- Right-side minimalist architectural topology motif -->
+    <g opacity="0.9">
+      <circle cx="995" cy="140" r="108" stroke="#38bdf8" stroke-opacity="0.12" stroke-width="1" />
+      <circle cx="995" cy="140" r="72" stroke="#94a3b8" stroke-opacity="0.13" stroke-width="1" stroke-dasharray="4 6" />
+      <circle cx="995" cy="140" r="36" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1" />
+
+      <line x1="860" y1="140" x2="1130" y2="140" stroke="#94a3b8" stroke-opacity="0.10" stroke-width="1" />
+      <line x1="995" y1="20" x2="995" y2="260" stroke="#94a3b8" stroke-opacity="0.10" stroke-width="1" />
+
+      <line x1="932" y1="92" x2="995" y2="140" stroke="#38bdf8" stroke-opacity="0.28" stroke-width="1.2" />
+      <line x1="995" y1="140" x2="1062" y2="106" stroke="#38bdf8" stroke-opacity="0.28" stroke-width="1.2" />
+      <line x1="995" y1="140" x2="1044" y2="196" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1.2" />
+
+      <circle cx="932" cy="92" r="3.5" fill="#38bdf8" fill-opacity="0.7" />
+      <circle cx="1062" cy="106" r="3.5" fill="#38bdf8" fill-opacity="0.7" />
+      <circle cx="1044" cy="196" r="3" fill="#60a5fa" fill-opacity="0.6" />
+      <circle cx="995" cy="140" r="5" fill="#38bdf8" />
+    </g>
+
+    <!-- Left typography block -->
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Liberation Sans', Helvetica, Arial, sans-serif">
+      <!-- Eyebrow -->
+      <rect x="64" y="54" width="8" height="8" rx="2" fill="#38bdf8" />
+      <text x="82" y="62.5" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="600" letter-spacing="1.8">
+        SOFTWARE ENGINEER  ·  INDONESIA (UTC+7)
+      </text>
+
+      <!-- Name -->
+      <text x="64" y="124" fill="#f8fafc" font-size="46" font-weight="700" letter-spacing="-0.8">
+        Ryan Arya Pramudya
+      </text>
+
+      <!-- Role subtitle -->
+      <text x="64" y="162" fill="#94a3b8" font-size="18" font-weight="400">
+        Full-Stack Web Systems  ·  APIs &amp; Automation  ·  Application Security
+      </text>
+
+      <!-- Domain pills -->
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#cbd5e1">
+        <rect x="64" y="196" width="194" height="32" rx="7" fill="#131e33" stroke="#24344d" stroke-width="1" />
+        <text x="161" y="216" text-anchor="middle">SIMRS &amp; BPJS Bridging</text>
+
+        <rect x="270" y="196" width="192" height="32" rx="7" fill="#131e33" stroke="#24344d" stroke-width="1" />
+        <text x="366" y="216" text-anchor="middle">Local AI &amp; Automation</text>
+
+        <rect x="474" y="196" width="196" height="32" rx="7" fill="#131e33" stroke="#24344d" stroke-width="1" />
+        <text x="572" y="216" text-anchor="middle">Web &amp; Network Security</text>
+      </g>
+    </g>
+
+    <!-- Crisp subtle inner border -->
+    <rect x="0.5" y="0.5" width="1199" height="279" rx="13.5" stroke="#1e293b" stroke-width="1" />
+  </g>
+</svg>

@@ -2,7 +2,11 @@
   <img src="assets/banner.png" alt="Midnight rain over a Tokyo rooftop with blue shadow aura" width="100%" />
 </p>
 
-### Status
+<p align="center">
+  <sub><strong>RYAN ARYA PRAMUDYA</strong> &nbsp;·&nbsp; Full-Stack Web Dev &nbsp;·&nbsp; API &amp; Automation &nbsp;·&nbsp; Security Pentest</sub>
+</p>
+
+### 01 · Status
 
 <div>
 <img align="right" src="assets/side.png" alt="Ryan Arya Pramudya" width="260" height="325" />
@@ -23,28 +27,31 @@ lately:
   - SIMRS & BPJS bridging
   - Local AI & automation tools
   - Network & web security
+
+status: active · building in silence
+open_to: collaborations & security research
 ```
 
 <br clear="right" />
 
-### Tech Stack
+### 02 · Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,py,php,go,rust,vue,nextjs,nodejs,fastapi,laravel,docker,postgres,linux&theme=dark&perline=14" alt="Tech Stack" />
 </p>
 
-### Projects
+### 03 · Projects
 
 | Project | Description | Visibility |
 | :--- | :--- | :---: |
-| [**Incompetech-api**](https://github.com/ryanaryapramudya/Incompetech-api) | High-performance Python scraper, FastAPI REST API & SDK for Kevin MacLeod's Incompetech music catalog | `public` |
+| [**Incompetech&#8209;api**](https://github.com/ryanaryapramudya/Incompetech-api) | FastAPI REST API, scraper & SDK for Kevin MacLeod's music catalog | `public` |
 | **IndoExam** | Online examination and assessment platform | `private` |
-| **NexaPost** | Content publishing and post automation platform | `private` |
+| **NexaPost** | Multi-workspace content publishing and automation platform | `private` |
 | **IndoAcademy** | Online learning and academy management platform | `private` |
-| [**BOT-WA**](https://github.com/ryanaryapramudya/BOT-WA) | Automated WhatsApp bot built with Node.js | `public` |
+| [**BOT&#8209;WA**](https://github.com/ryanaryapramudya/BOT-WA) | Automated WhatsApp bot built with Node.js | `public` |
 
 ---
 
 <p align="center">
-  「 起きろ。」
+  <strong>「 起きろ。」</strong>
 </p>
